@@ -64,6 +64,7 @@ $donatur = [
                                 </li>
                                 <li class="nav-item me-4">
                                     <a class="nav-link" href="#data">Data wakaf</a>
+                                    <!-- tesss -->
                                 </li>
                                 <li class="nav-item me-4">
                                     <a class="nav-link" href="#galeri">Gallery</a>
